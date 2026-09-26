@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Navbar</title>
+        <style>
+            body {
+                margin: 0;
+                
+            }
+            </style>
+        </head>
+        <body>
+            <div class="topnav">
+                <a class="active" href="#home">Home</a>
+                <a href="#about">About</a>
+                <a href="contact">Gallery</a>
+                </div><br>
+                <span class="border trans" style="font-size:40px;">
+                    <center>Welcome all to this website</center>
+                     </span><br>
+                    <p><img src="download.jpg"
+                        style="width:170px;height:170px;margin-left:15px; float: right;">
+                        Pizza (Italian: ['pittsa'], Neapolitan: ['pittse']) is a savory
+                        dish of Italian origin consisting of a usually round, flattened
+                        base of Ieavened wheat-base dough topped with tomatoes, cheese,
+                        and often verious other ingredients (such as anchovies
+                        mushrooms, onions, olivers, pineapple, meat, etc.), which is then
+                        baked at a high temperature, traditionally in a wood-fired oven.
+                        [1] A small pizza is known as a pizzaiolo.</p>
