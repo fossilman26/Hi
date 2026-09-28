@@ -1,0 +1,7 @@
+print ("My name is Cade")
+print ("I like drawing")
+print ("I like to play airsoft")
+print ("I like to be outdoors")
+print ("I like to ride my bike and do wheeliels")
+print ("Coding is fun")
+print ("The oceain is\n cold today")
