@@ -9,3 +9,8 @@ print ("I love spider man")
 print (12345678910)
 print ("I love spider man and the movies.",12345678910)
 print ("spider man",end="*")
+x=5
+y="coding"
+print (x)
+print (y)
+print ("John")
